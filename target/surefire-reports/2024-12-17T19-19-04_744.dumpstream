@@ -1,0 +1,5 @@
+# Created at 2024-12-17T19:19:05.168
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ECLIPSE FOR JAVA\ECLIPSE WORKSPACE\6thJulySeleniumMaven\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
