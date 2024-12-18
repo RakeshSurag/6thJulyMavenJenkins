@@ -2,35 +2,35 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-18T19:05:44 IST" name="Suite" finished-at="2024-12-18T19:06:01 IST" duration-ms="17053">
+  <suite started-at="2024-12-18T19:49:28 IST" name="Suite" finished-at="2024-12-18T19:49:44 IST" duration-ms="16014">
     <groups>
     </groups>
-    <test started-at="2024-12-18T19:05:44 IST" name="Test" finished-at="2024-12-18T19:06:01 IST" duration-ms="17053">
+    <test started-at="2024-12-18T19:49:28 IST" name="Test" finished-at="2024-12-18T19:49:44 IST" duration-ms="16014">
       <class name="Module1_Login_Test.SwagLabsTest">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Module1_Login_Test.SwagLabsTest@158d2680]" started-at="2024-12-18T19:05:44 IST" name="openBrowser" finished-at="2024-12-18T19:05:49 IST" duration-ms="4922" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Module1_Login_Test.SwagLabsTest@70e9c95d]" started-at="2024-12-18T19:49:28 IST" name="openBrowser" finished-at="2024-12-18T19:49:32 IST" duration-ms="3895" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="loginToApp()[pri:0, instance:Module1_Login_Test.SwagLabsTest@158d2680]" started-at="2024-12-18T19:05:49 IST" name="loginToApp" finished-at="2024-12-18T19:05:53 IST" duration-ms="3940" status="PASS">
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:Module1_Login_Test.SwagLabsTest@70e9c95d]" started-at="2024-12-18T19:49:32 IST" name="loginToApp" finished-at="2024-12-18T19:49:36 IST" duration-ms="3875" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApp -->
-        <test-method signature="verifyLogoText()[pri:0, instance:Module1_Login_Test.SwagLabsTest@158d2680]" started-at="2024-12-18T19:05:53 IST" name="verifyLogoText" finished-at="2024-12-18T19:05:57 IST" duration-ms="4447" status="PASS">
+        <test-method signature="verifyLogoText()[pri:0, instance:Module1_Login_Test.SwagLabsTest@70e9c95d]" started-at="2024-12-18T19:49:36 IST" name="verifyLogoText" finished-at="2024-12-18T19:49:41 IST" duration-ms="4595" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogoText -->
-        <test-method is-config="true" signature="logoutApp(org.testng.ITestResult)[pri:0, instance:Module1_Login_Test.SwagLabsTest@158d2680]" started-at="2024-12-18T19:05:57 IST" name="logoutApp" finished-at="2024-12-18T19:05:59 IST" duration-ms="1859" status="PASS">
+        <test-method is-config="true" signature="logoutApp(org.testng.ITestResult)[pri:0, instance:Module1_Login_Test.SwagLabsTest@70e9c95d]" started-at="2024-12-18T19:49:41 IST" name="logoutApp" finished-at="2024-12-18T19:49:43 IST" duration-ms="1810" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verifyLogoText status=SUCCESS method=SwagLabsTest.verifyLogoText()[pri:0, instance:Module1_Login_Test.SwagLabsTest@158d2680] output={null}]]]>
+                <![CDATA[[TestResult name=verifyLogoText status=SUCCESS method=SwagLabsTest.verifyLogoText()[pri:0, instance:Module1_Login_Test.SwagLabsTest@70e9c95d] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutApp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Module1_Login_Test.SwagLabsTest@158d2680]" started-at="2024-12-18T19:05:59 IST" name="closeBrowser" finished-at="2024-12-18T19:06:01 IST" duration-ms="1776" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Module1_Login_Test.SwagLabsTest@70e9c95d]" started-at="2024-12-18T19:49:43 IST" name="closeBrowser" finished-at="2024-12-18T19:49:44 IST" duration-ms="1764" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
