@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
+
 public class SwagLabsHomePage 
 {
 	@FindBy(xpath="//div[@class='app_logo']") private WebElement Logo;
